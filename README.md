@@ -4,6 +4,8 @@
 
 This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
 
+### Live demo via Heroku @ https://stormy-dusk-73073.herokuapp.com/
+
 
 # Quick Start 🚀
 
