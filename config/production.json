@@ -1,7 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://ryan123:ryan123@mern-x2eec.mongodb.net/Devconnect?retryWrites=true&w=majority",
-  "jwtSecret": "secret",
-  "githubClientId": "c6c4ddd6abe04653fd53",
-  "githubSecret": "1ff4f1d4278b04d19c39ddf0c7b0d5621d736d57",
-  "githubToken": "e66fa854a5afaed7179f31a24cf0a1171f9ba51d"
-}
